@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Division con modulo", "Division con modulo\Division con modulo.csproj", "{B975078F-80A6-434B-8768-836915BF005E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B975078F-80A6-434B-8768-836915BF005E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B975078F-80A6-434B-8768-836915BF005E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B975078F-80A6-434B-8768-836915BF005E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B975078F-80A6-434B-8768-836915BF005E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3123560F-1CBC-47E2-B2BB-94DDC2454D2B}
+	EndGlobalSection
+EndGlobal
